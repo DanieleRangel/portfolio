@@ -8185,6 +8185,16 @@ textarea.form-control-lg {
   background-color: transparent !important;
 }
 
+.bg-indigo {
+  --bs-bg-opacity: 1;
+  background-color: #4B0082 !important; /* Cor indigo */
+}
+
+/* Adicione estilos de hover, foco e outros, se necessário */
+.bg-indigo:hover {
+  background-color: #330066 !important; /* Cor indigo mais escura no hover */
+}
+
 .bg-opacity-10 {
   --bs-bg-opacity: 0.1;
 }
