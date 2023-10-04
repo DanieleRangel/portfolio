@@ -10917,7 +10917,7 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #4B0082 ;
+  color: #6f42c1;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
@@ -11019,7 +11019,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(75, 0, 130, 0.8);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
